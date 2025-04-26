@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing my B.tech degree from **Marwadi University.**
 
-- 🌱 I’m currently learning **Mern Stack, Python.**
+- 🌱 I’m currently learning **Mern Stack.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swartz9525/](https://github.com/Swartz9525/)
 
